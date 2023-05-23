@@ -12,8 +12,12 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
+    
+comments:
+  giscus:
+    repo: ruddnr/jk_blog
 
 editor: visual
 
