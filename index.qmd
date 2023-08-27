@@ -1,5 +1,5 @@
 ---
-title: "JK_blog"
+title: "빛날욱 旭"
 listing:
   contents: posts
   sort: "date desc"
