@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: c7be11d2-3583-41b5-ae53-3cd66dbb9448
+      url: 'https://shinewook.netlify.app'
